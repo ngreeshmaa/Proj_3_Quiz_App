@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="fifa_worldcup_2018_quiz">FIFA WORLDCUP 2018 QUIZ</string>
+    <string name="Question1">There were two stadiums used in Moscow - what were they called?</string>
+    <string name="checkbox1">Luzhniki Stadium</string>
+    <string name="checkbox2">Spartak Stadium</string>
+    <string name="checkbox3">Fisht Stadium</string>
+    <string name="checkbox4">Mordovia Arena</string>
+    <string name="Question2">Who scored the first goal of the 2018 World Cup?</string>
+    <string name="radiobutton1">Denis Cheryshev</string>
+    <string name="radiobutton2">Aleksandr Golovin</string>
+    <string name="radiobutton13">Yury Gazinsky</string>
+    <string name="radiobutton4">Artem Dzyuba</string>
+    <string name="Question3">How many yellow cards were shown during the World Cup?</string>
+    <string name="hint1">Enter your answer here</string>
+    <string name="Question4">Which team scored the most goals at the World Cup?</string>
+    <string name="hint2">Enter your answer here</string>
+    <string name="Question5">Which of these Russian cities was NOT used as a host city?</string>
+    <string name="radiobutton5">St Petersburg</string>
+    <string name="radiobutton6">Volgograd</string>
+    <string name="radiobutton7">Kazan</string>
+    <string name="radiobutton8">Vladivostok</string>
+    <string name="submit">Submit</string>
+</resources>
